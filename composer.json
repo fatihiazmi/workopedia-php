@@ -1,0 +1,16 @@
+{
+  "name": "fatihiazmi/workopedia-php",
+  "description": "Job listing app using PHP",
+  "authors": [
+    {
+      "name": "fatihiazmi",
+      "email": "fatihiazmi@gmail.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Framework\\": "Framework/",
+      "App\\": "App/"
+    }
+  }
+}
