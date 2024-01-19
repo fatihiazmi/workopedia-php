@@ -11,6 +11,7 @@ loadPartial('top-banner');
             <?= $message; ?>
         </p>
     </div>
+    <a href="/listings" class="block text-center">Go back to listings</a>
 </section>
 
 <?php loadPartial('footer') ?>
